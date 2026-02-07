@@ -1,0 +1,10 @@
+com\amar\core\GameEngine.class
+com\amar\entity\Wall.class
+com\amar\entity\Entity.class
+com\amar\game\Main.class
+com\amar\input\Input.class
+com\amar\core\Camera.class
+com\amar\core\AssetManager.class
+com\amar\core\GameEngine$1.class
+com\amar\App.class
+com\amar\entity\Player.class
